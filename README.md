@@ -1,4 +1,5 @@
-### Hi there 👋'
+### Hi there I am Khadizatul Qubra👋'
+I'm an enthusiastic full-stack developer, especially interested in backend work. My path is all about learning new tech and creating exciting web applications. I thrive in teams, facing challenges with a mix of creativity and grit. Always eager to join projects that break new ground and expand my skills in the world of web development.
 
 ## 💻  Education
 
